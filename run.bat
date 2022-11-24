@@ -1,0 +1,2 @@
+node worlddc.js
+PAUSE
